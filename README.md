@@ -1,6 +1,6 @@
 <style>
   h1{
-    color:gold;
+    color:red;
   }
 </style>
 <h1 align="center">Most Welcome</h1>
