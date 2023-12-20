@@ -1,6 +1,2 @@
-<style>
-  h1{
-    color:red;
-  }
-</style>
-<h1 align="center">Most Welcome</h1>
+
+<h1 align="center" style="color:gold;">Most Welcome</h1>
